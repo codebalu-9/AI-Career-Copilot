@@ -1,4 +1,4 @@
-# ✦ AI Career Copilot
+# ✦ AI Career Copilot 
 
 > An AI-powered career preparation platform that helps students land internships and jobs through intelligent resume analysis, mock interviews, skill gap detection, and job recommendations.
 
