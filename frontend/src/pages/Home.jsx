@@ -72,14 +72,14 @@ export default function Home() {
         <div className="relative max-w-3xl mx-auto animate-fade-up">
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-brand-500/30 bg-brand-500/10 text-brand-300 text-xs font-medium mb-6">
             <span className="w-1.5 h-1.5 rounded-full bg-brand-400 animate-pulse" />
-            AI-powered career prep — 100% free to start
+            AI-powered career prep Start Here
           </div>
 
           <h1 className="font-display text-5xl sm:text-6xl font-extrabold text-white leading-[1.08] tracking-tight mb-6">
             Land your dream{' '}
             <span className="relative inline-block">
               <span className="relative z-10 text-transparent bg-clip-text bg-gradient-to-r from-brand-400 to-accent-cyan">
-                internship
+                Job
               </span>
               <span className="absolute inset-x-0 bottom-1 h-2 bg-brand-500/20 rounded" />
             </span>{' '}
